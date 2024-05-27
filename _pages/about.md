@@ -58,18 +58,13 @@ Research Experience
 <p align="right">University of Cambridge, Faculty of Mathematics, with Professor Li Chao</p>
 <p align="right">April., 2024 - Present</p>
 
-*Design the research methods, implement code, and write the thesis*
+**Research on the Common Problems in Low-quality Mutimodel Physiological Signal Data Analysis by Spatial-temporal Correlative Fusio**
+<p align="right">Nov., 2023 - Present</p>                                           
 
-* Responsible for developing the paper "Multi-task Learning of Histology and Molecular Markers for Classifying Diffuse Glioma" that won the MICCAI2023 Best Paper Honorable Mention;
-  
-* Based on the DeepMO-Glioma framework, a method is designed to disentangle effective features at different levels through the interaction of multi-level resolution WSI;
-  
-* Task interaction algorithms for histology and molecular markers in an optimization framework;
-  
-* Responsible for promoting cell segmentation tasks in large medical model projects.
-  
-*Achievements:*
+**Research on the Common Problems in Low-quality Mutimodel Physiological Signal Data Analysis by Spatial-temporal Correlative Fusion**                                         
+<p align="right">Nov., 2023 - Present</p>  
 
-* Plan to submit the research result to IEEE Transactions on Medical Imaging or Medical Image Analysis;
+**Research on Human Activity Recognition based on Multi-scale Metric Learning of Neural Networks**
 
-* Plan to submit the graduation research results to MICCAI 2025.
+(National Undergraduate Training Programs for Innovation and Entrepreneurship)
+<p align="right">Oct., 2022 - April., 2024</p>  
