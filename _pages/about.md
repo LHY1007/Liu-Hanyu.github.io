@@ -13,7 +13,7 @@ I am Liu Hanyu, a third-year undergraduate student majoring in Biomedical Engine
 
 My research interests encompass action recognition, medical imaging, and large medical models. I have conducted research in the Human Activity Recognition group under Professor Wang Zhiqiong in the Department of Information at Northeastern University. Currently, I am working with Professor Li Chao at the University of Cambridge on projects related to medical imaging and large models. 
 
-My active participation in top-tier conferences such as AAAI (2024, CCF A), IEEE T-KDE (CCF A, IF 8.9), IEEE T-II (Q1, CCF C, IF 12.3), and EAAI (Q1, CCF C, IF 8.0), along with my experience as a reviewer for various conferences and journals, highlights my dedication to the field. During the winter vacation of 2024, I will assist my research team in completing the NSFC 2024 general project application task.
+My active participation at top conferences and journals such as AAAI (2024, CCF A), IEEE T-KDE (CCF A, IF 8.9), IEEE T-II (Q1, CCF C, IF 12.3), and EAAI (Q1, CCF C, IF 8.0), along with my experience as a reviewer for various conferences and journals, highlights my dedication to the field. During the winter vacation of 2024, I will assist my research team in completing the NSFC 2024 general project application task.
 
 Publications
 ======
