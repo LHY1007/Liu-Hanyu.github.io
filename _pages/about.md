@@ -55,16 +55,16 @@ Research Experience
 ======
 
 **Clinical Diagnosis based on Deep Learning**
-<p align="right">University of Cambridge, Faculty of Mathematics, with Professor Li Chao</p>
-<p align="right">April., 2024 - Present</p>
+*<p align="right">University of Cambridge, Faculty of Mathematics, with Professor Li Chao</p>*
+*<p align="right">April., 2024 - Present</p>*
 
-**Research on the Common Problems in Low-quality Mutimodel Physiological Signal Data Analysis by Spatial-temporal Correlative Fusio**
-<p align="right">Nov., 2023 - Present</p>                                           
+**The Common Problems in Low-quality Mutimodel Physiological Signal Data Analysis by Spatial-temporal Correlative Fusio**
+*<p align="right">Nov., 2023 - Present</p>*                                           
 
-**Research on the Common Problems in Low-quality Mutimodel Physiological Signal Data Analysis by Spatial-temporal Correlative Fusion**                                         
-<p align="right">Nov., 2023 - Present</p>  
+**The Common Problems in Low-quality Mutimodel Physiological Signal Data Analysis by Spatial-temporal Correlative Fusion**                                         
+*<p align="right">Nov., 2023 - Present</p>*  
 
-**Research on Human Activity Recognition based on Multi-scale Metric Learning of Neural Networks**
+**Human Activity Recognition based on Multi-scale Metric Learning of Neural Networks**
 
-(National Undergraduate Training Programs for Innovation and Entrepreneurship)<p align="right">Oct., 2022 - April., 2024</p>  
+(National Undergraduate Training Programs for Innovation and Entrepreneurship)*<p align="right">Oct., 2022 - April., 2024</p>*  
 
