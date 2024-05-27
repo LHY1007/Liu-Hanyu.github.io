@@ -27,7 +27,7 @@ Publications
 
 * NeurIPS (2024, CCF A)
 
-* IEEE IOTJ (Q1, TOP, IF 10.6)
+* IEEE IOTJ (Q1, IF 10.6)
 
 **Papers being written:**
 
@@ -35,9 +35,24 @@ Publications
 
 * MICCAI (2025, CCF B)
 
+**Intellectual property:**
+
+* Software copyright*1
+
+* Chinese invention patent*1
+
+**Other:**
+
+* An embedded Raspberry Pi system framework for practical deployment of HAR
+
+* A set of three-axis acceleration sensor data sets for human activity recognition
+
+* A multi-sensor dataset on fall detection
+
+* A set of introductory guides to scientific research based on human activity recognition research
+  
 Research Experience
 ======
-
 
 **Clinical Diagnosis based on Deep Learning**
 <p align="right">University of Cambridge, Faculty of Mathematics, with Professor Li Chao</p>
