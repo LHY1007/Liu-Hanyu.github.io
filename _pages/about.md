@@ -1,13 +1,12 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Academic Pages"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+Liu Hanyu is a third-year undergraduate majoring in biomedical engineering at the School of Medicine and Bioinformatics Engineering at Northeastern University (China).  His research interests mainly lie in action recognition, medical imaging and medical large models.  He once studied in the research group of Professor Wang Zhiqiong of the Department of Information, School of Medicine and Bioinformatics Engineering, Northeastern University (Human Activity Recognition), and is currently doing research with Professor Li Chao, School of Mathematics, University of Cambridge (Medical Imaging and Large Models). He will receive a bachelor's degree from Northeastern University in 2025. Bachelor's degree from the University of Dundee. He currently has published two scientific research papers in IJCAI (2024, CCF A) and Physiological Measurement (Q2, IF 3.2), and has submitted the latest papers in NeurIPS (2024, CCF A) and IEEE IOTJ (Q1, TOP, IF 10.6) Research, and a number of other studies that are ready to be submitted to IEEE T-MI (Q1, CCF B, IF 10.6) and MICCAI (2025, CCF B) are ongoing. Participated in many top-level conferences such as AAAI (2024, CCF A), IEEE T-KDE (CCF A, IF 8.9), IEEE T-II (Q1, CCF C, IF 12.3), EAAI (Q1, CCF C, IF 8.0), etc. Review work for conferences and journals. During the winter vacation of 2024, I will help the research team complete the NSFC 2024 general project application task.
 
 A data-driven personal website
 ======
