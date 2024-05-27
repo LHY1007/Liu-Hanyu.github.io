@@ -6,43 +6,36 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Liu Hanyu is a third-year undergraduate majoring in biomedical engineering at the School of Medicine and Bioinformatics Engineering at Northeastern University (China).  His research interests mainly lie in action recognition, medical imaging and medical large models.  He once studied in the research group of Professor Wang Zhiqiong of the Department of Information, School of Medicine and Bioinformatics Engineering, Northeastern University (Human Activity Recognition), and is currently doing research with Professor Li Chao, School of Mathematics, University of Cambridge (Medical Imaging and Large Models). He will receive a bachelor's degree from Northeastern University in 2025. Bachelor's degree from the University of Dundee. He currently has published two scientific research papers in IJCAI (2024, CCF A) and Physiological Measurement (Q2, IF 3.2), and has submitted the latest papers in NeurIPS (2024, CCF A) and IEEE IOTJ (Q1, TOP, IF 10.6) Research, and a number of other studies that are ready to be submitted to IEEE T-MI (Q1, CCF B, IF 10.6) and MICCAI (2025, CCF B) are ongoing. Participated in many top-level conferences such as AAAI (2024, CCF A), IEEE T-KDE (CCF A, IF 8.9), IEEE T-II (Q1, CCF C, IF 12.3), EAAI (Q1, CCF C, IF 8.0), etc. Review work for conferences and journals. During the winter vacation of 2024, I will help the research team complete the NSFC 2024 general project application task.
 
-A data-driven personal website
+Who I Am?
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+Liu Hanyu is a third-year undergraduate student majoring in Biomedical Engineering at the School of Medicine and Bioinformatics Engineering, Northeastern University (China). He is set to receive his bachelor's degree from Northeastern University in 2025 and from the University of Dundee.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+Liu's research interests encompass action recognition, medical imaging, and large medical models. He has conducted research in the Human Activity Recognition group under Professor Wang Zhiqiong in the Department of Information at Northeastern University and is currently working with Professor Li Chao at the University of Cambridge on projects related to medical imaging and large models.
 
-Getting started
+Publications
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+Liu has an impressive publication record, with two papers published in IJCAI (2024, CCF A) and Physiological Measurement (Q2, IF 3.2). He has also submitted his latest research to NeurIPS (2024, CCF A) and IEEE IOTJ (Q1, TOP, IF 10.6). Additionally, he is preparing several studies for submission to IEEE T-MI (Q1, CCF B, IF 10.6) and MICCAI (2025, CCF B).
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+His active participation in top-tier conferences such as AAAI (2024, CCF A), IEEE T-KDE (CCF A, IF 8.9), IEEE T-II (Q1, CCF C, IF 12.3), and EAAI (Q1, CCF C, IF 8.0), along with his experience as a reviewer for various conferences and journals, highlights his dedication to the field. During the winter vacation of 2024, Liu will assist his research team in completing the NSFC 2024 general project application task.
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+Research Experience
+======
+**Clinical Diagnosis based on Deep Learning**
+<p align="right">University of Cambridge, Faculty of Mathematics, with Professor Li Chao</p>
+<p align="right">April., 2024 - Present</p>
 
-**Markdown generator**
+*Design the research methods, implement code, and write the thesis*
 
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
+  Responsible for developing the paper "Multi-task Learning of Histology and Molecular Markers for Classifying Diffuse Glioma" that won the MICCAI2023 Best Paper Honorable Mention;
+  
+  Based on the DeepMO-Glioma framework, a method is designed to disentangle effective features at different levels through the interaction of multi-level resolution WSI;
+  
+  Task interaction algorithms for histology and molecular markers in an optimization framework;
+  
+  Responsible for promoting cell segmentation tasks in large medical model projects.
+  
+*Achievements:*
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
-
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+  Plan to submit the research result to IEEE Transactions on Medical Imaging or Medical Image Analysis;
+  Plan to submit the graduation research results to MICCAI 2025.
