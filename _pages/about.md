@@ -66,5 +66,5 @@ Research Experience
 
 **Research on Human Activity Recognition based on Multi-scale Metric Learning of Neural Networks**
 
-(National Undergraduate Training Programs for Innovation and Entrepreneurship)
-<p align="right">Oct., 2022 - April., 2024</p>  
+(National Undergraduate Training Programs for Innovation and Entrepreneurship)<p align="right">Oct., 2022 - April., 2024</p>  
+
