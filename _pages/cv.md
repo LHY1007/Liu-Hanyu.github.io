@@ -22,7 +22,7 @@ C Language Programming (97); Principles of Database (Bilingual) (95); Operating 
 Publications
 ======
 
-* Zhi Q. W.<sup>1</sup>, **Liu H. Y.<sup>1</sup>**, Zhao B. Y., Qi S., Ming Z. L., Ning F. Q., Yan M. K., Xin J. C.* (2024.4). Multi-scale Context-aware networks based on fragment association for Human Activity Recognition. International Joint Conference on Artificial Intelligence (CCF A), Accepted now.
+* Zhi Q. W.<sup>\*, 1</sup>, **Liu H. Y.<sup>1</sup>**, Zhao B. Y., Qi S., Ming Z. L., Ning F. Q., Yan M. K., Xin J. C.* (2024.4). Multi-scale Context-aware networks based on fragment association for Human Activity Recognition. International Joint Conference on Artificial Intelligence (CCF A), Accepted now.
 
 * **Liu H.Y.<sup>1</sup>**, Zhao B. Y.<sup>1</sup>, Dai C. B., Sun B. X., Ang L., and Wang Z. Q.* (2023.11). MAG-Res2Net: a novel deep learning network for human activity recognition. Physiological Measurement (Q2, IF 3.2), Volume 44, Page 11.
 
