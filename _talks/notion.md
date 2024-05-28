@@ -1,14 +1,8 @@
 ---
-title: "My Notion"
 collection: talks
-type: "ditails"
 permalink: /talks/notion
-venue: "talks"
-date: 2024-5-28
-location: "Los Angeles, CA"
 ---
 
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -16,8 +10,8 @@ location: "Los Angeles, CA"
     <title>My Academic Homepage</title>
 </head>
 <body>
-    <h1>Welcome to My Academic Homepage</h1>
-    <iframe src="your-notion-link" style="width:100%; height:500px; border:none;"></iframe>
+    <h1>Welcome to My Notion</h1>
+    <iframe src="your-notion-link" style="width:100%; height:700px; border:none;"></iframe>
 </body>
 </html>
 
