@@ -115,13 +115,15 @@ Contests and Awards
 
 **Project title:** Recognition of ST Segment Changes in Wearable Electrocardiograms 
 * Implemented code, drafted the research report and did the final oral defense; 
-* Won Second Prize at national level.
+* Won Second Prize at national level;
+* Won first place in preliminaries and second place in finals.
 
 ### 2023 “JJ World” Chinese College Students’ Computer Games Competition - The 17th Chinese Computer Games Championship      
 <p align="right">Aug., 2023</p>
 
 **Project Title:** Shao Guang Dot and Boxes   
 * Implemented code, drafted the research report, and operated the program in field game;
-* Won Second Prize at national level. 
+* Won Second Prize at national level;
+* Won first place in preliminaries and fourth place in finals. 
 
   
