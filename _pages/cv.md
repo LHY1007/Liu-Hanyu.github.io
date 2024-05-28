@@ -47,8 +47,7 @@ Research Experience
 <p align="right">University of Cambridge, Faculty of Mathematics</p>
 <p align="right">April., 2024 - Present</p>
                                                  
-                                                 
-                                                                        
+                                                              
 *Design the research methods, implement code, and write the thesis*
 
 * Responsible for developing the paper "Multi-task Learning of Histology and Molecular Markers for Classifying Diffuse Glioma" that won the MICCAI2023 Best Paper Honorable Mention;
