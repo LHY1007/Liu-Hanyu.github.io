@@ -42,7 +42,7 @@ Skills
   
 Research Experience
 ======
-### Clinical Diagnosis based on Deep Learning with Dr Chao Li
+## Clinical Diagnosis based on Deep Learning with Dr Chao Li
 
 <p align="right">University of Cambridge, Faculty of Mathematics</p>
 <p align="right">April., 2024 - Present</p>
@@ -60,7 +60,7 @@ Research Experience
 * Plan to submit the research result to IEEE Transactions on Medical Imaging or Medical Image Analysis.
 * Plan to submit the graduation research results to MICCAI 2025.
 
-### Intelligent chemical anomaly detection and fault diagnosis
+## Intelligent chemical anomaly detection and fault diagnosis
 <p align="right">Northeastern University Cooperative project with College of Information Science and Engineering</p>
 <p align="right">Nov., 2023 - Present</p>
 
@@ -71,7 +71,7 @@ Research Experience
 *Achievements* 
 * Plan to contribute a research paper to SCI Q2 and above as the second author followed by the contribution of about three academic theses of the same level as a co-author. 
 
-### Research on the Common Problems in Low-quality Mutimodel Physiological Signal Data Analysis by Spatial-temporal Correlative Fusion
+## Research on the Common Problems in Low-quality Mutimodel Physiological Signal Data Analysis by Spatial-temporal Correlative Fusion
 <p align="right">Nov., 2023 - Present</p>
 
 *Worked on self-adaptive noise tolerance learning for low-quality multimodal physiological signals and took charge of method implementation and content drafting* 
@@ -88,7 +88,7 @@ Research Experience
 * Submitted a research paper to the top academic conference NeurIPS2024 as the first author; 
 * Accomplished the application task in the NSFC 2024 general program.
 
-### Research on Human Activity Recognition based on Multi-scale Metric Learning of Neural Networks (National Undergraduate Training Programs for Innovation and Entrepreneurship)
+## Research on Human Activity Recognition based on Multi-scale Metric Learning of Neural Networks (National Undergraduate Training Programs for Innovation and Entrepreneurship)
 <p align="right">Oct., 2022 - April., 2024</p>
 
 *Implemented the project, wrote the thesis, and managed the team*
