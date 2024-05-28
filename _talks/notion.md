@@ -11,7 +11,7 @@ permalink: /talks/notion
 </head>
 <body>
     <h1>Welcome to My Notion</h1>
-    <iframe src="https://www.notion.so/lhy-neu" style="width:100%; height:700px; border:none;"></iframe>
+    <iframe src="www.notion.so/lhy-neu" style="width:100%; height:700px; border:none;"></iframe>
 </body>
 </html>
 
