@@ -88,7 +88,8 @@ Research Experience
 * Submitted a research paper to the top academic conference NeurIPS2024 as the first author; 
 * Accomplished the application task in the NSFC 2024 general program.
 
-## Research on Human Activity Recognition based on Multi-scale Metric Learning of Neural Networks (National Undergraduate Training Programs for Innovation and Entrepreneurship)
+## Research on Human Activity Recognition based on Multi-scale Metric Learning of Neural Networks 
+*(National Undergraduate Training Programs for Innovation and Entrepreneurship)*
 <p align="right">Oct., 2022 - April., 2024</p>
 
 *Implemented the project, wrote the thesis, and managed the team*
@@ -109,7 +110,7 @@ Research Experience
 Contests and Awards
 ======
 
-### 2023 National Undergraduate Biomedical Engineering Innovation Design Competition        
+## 2023 National Undergraduate Biomedical Engineering Innovation Design Competition        
 <p align="right">July., 2023</p>
 
 **Project title:** Recognition of ST Segment Changes in Wearable Electrocardiograms 
@@ -117,7 +118,7 @@ Contests and Awards
 * Won Second Prize at national level;
 * Won first place in preliminaries and second place in finals.
 
-### 2023 “JJ World” Chinese College Students’ Computer Games Competition - The 17th Chinese Computer Games Championship      
+## 2023 “JJ World” Chinese College Students’ Computer Games Competition - The 17th Chinese Computer Games Championship      
 <p align="right">Aug., 2023</p>
 
 **Project Title:** Shao Guang Dot and Boxes   
