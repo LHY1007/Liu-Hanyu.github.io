@@ -14,8 +14,8 @@ Education
 
 ### B.S. Northeastern University(Shenyang) & University of Dundee(Dundee)
  
-* **Core Modules:** *Data Structure (98); Thermodynamics (98); Software Applications in Biomedical Engineering Design (98); General Knowledge of Artificial Intelligence (98); IoT of Healthy Body(98);
-C Language Programming (97); Principles of Database (Bilingual) (95); Operating System(95); C&C++ (95); Intelligent Medicine (94).*
+* **Core Modules:** Data Structure (98); Thermodynamics (98); Software Applications in Biomedical Engineering Design (98); General Knowledge of Artificial Intelligence (98); IoT of Healthy Body(98);
+C Language Programming (97); Principles of Database (Bilingual) (95); Operating System(95); C&C++ (95); Intelligent Medicine (94).
  
 * **GPA: 85/100** 
 
