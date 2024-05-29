@@ -74,7 +74,7 @@ Research Experience
 
 <p align="right">Oct., 2022 - April., 2024</p>
 
-<a href="https://clustrmaps.com/site/1bzv7"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=F0dNP0IFcxh7DQmzFi5x4Zg6Tm9YXyLm-gV-vdaKqPU&cl=ffffff" /></a>
+<p href="https://clustrmaps.com/site/1bzv7"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=F0dNP0IFcxh7DQmzFi5x4Zg6Tm9YXyLm-gV-vdaKqPU&cl=ffffff" /></p>
 
 
 
