@@ -76,16 +76,7 @@ Research Experience
 
 <!-----------------------    Global Visualization    -------------------------->
 
-<br>
-<table style="width:20%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
-    <tr>
-        <td style="padding:0.5%;width:30%;vertical-align:middle;min-width:120px">
-            <!-- Global -->
-            <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=F0dNP0IFcxh7DQmzFi5x4Zg6Tm9YXyLm-gV-vdaKqPU"></script>
-            <!-- Plant widget -->
-<!--            <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=9fe6XoiAmtXfJTc0JCrXfPLUSadvS6GyofqR1SHp0E8&cl=ffffff&w=a"></script>-->
-        </td>
-    </tr>
-</table>
+<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=F0dNP0IFcxh7DQmzFi5x4Zg6Tm9YXyLm-gV-vdaKqPU"></script>
+
 
 
